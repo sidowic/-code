@@ -2,7 +2,7 @@
 //random thoughts just flying
 
 
-#online help
+# -online help
 #bullet https://leetcode.com/
 #bullet https://code.org/
 #bullet https://codeforces.com/
